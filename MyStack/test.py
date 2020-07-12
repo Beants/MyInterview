@@ -1,6 +1,6 @@
 import unittest
 
-from main import MyStack
+from MyStack.main import MyStack
 
 
 class MyTestCase(unittest.TestCase):
